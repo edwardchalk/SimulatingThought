@@ -1,0 +1,10 @@
+ego-state,behaviour,Asks questions to
+Parent.Parent,"Extremely strict, firm, stern, tough, disciplinarian",
+Parent.Adult,"Regulating, Governing, Controlling, Limiting, Safety enforcer, Supervisory, Controlling, Directing, Responsible, Understanding, Mature","Parent.Parent,Parent.Child"
+Parent.Child,"Paternal, Nurturing, Protective, Caregiving, Supportive, Guiding",
+Adult.Parent,"Counsellor, Moderator, Prudent, Reasonable, Sagacious, Judicious",Parent.Adult
+Adult.Adult,"Rational, Objective, Dispassionate, Unemotional, Logical, Analytical, Pragmatic, Reasoned, Detached, Impartial, Clear-headed, Intellectual, Cogent, Rationalistic, Thoughtful, Systematic","Adult.Parent,Adult.Child"
+Adult.Child,"Empathetic, Understanding, Patient, Calm, Collected, Serene, Poised, Wise, Intuitive, Astute",Child.Adult
+Child.Parent,"Affectionate, Attentive, Caring, Compassionate, Considerate, Devoted, Empathetic, Gentle, Giving, Kind-hearted, Loving, Nurturing, Protective, Sensitive, Supportive, Sympathetic, Tender, Thoughtful, Warm, in a childlike way",
+Child.Adult,"Of simple understanding, naïve, curious, in a childlike way","Child.Parent,Child.Child"
+Child.Child,"Fun loving, passionate, enthusiastic, spirited, lively, excitable, expressive, impassioned, emotional, impulsive, energetic, in a childlike way",
